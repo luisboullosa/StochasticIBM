@@ -1,0 +1,5 @@
+﻿  IBM.cpp
+d:\documents\visual studio 2017\projects\stochastic, ibm resource model\stochastic, ibm resource model\ibm.cpp(41): warning C4305: 'initializing': truncation from '__int64' to 'long'
+d:\documents\visual studio 2017\projects\stochastic, ibm resource model\stochastic, ibm resource model\ibm.cpp(41): warning C4309: 'initializing': truncation of constant value
+  Stochastic, IBM resource model.vcxproj -> D:\Documents\Visual Studio 2017\Projects\Stochastic, IBM resource model\Debug\Stochastic, IBM resource model.exe
+  Stochastic, IBM resource model.vcxproj -> D:\Documents\Visual Studio 2017\Projects\Stochastic, IBM resource model\Debug\Stochastic, IBM resource model.pdb (Partial PDB)
